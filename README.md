@@ -1,1 +1,1 @@
-# SugarcaneLeafClassification
+# SugarcaneLeafDieseaseClassification
